@@ -1,0 +1,50 @@
+.div1 a{
+    text-decoration: none;
+    color : white;
+    font-size: 30px;
+    padding-left: 50px;
+    text-align: left;
+}
+.nav-bar ul li{
+    list-style: none;
+    text-align: right;
+}
+.nav-bar a{
+    width: 150px;
+    text-decoration: none;
+    color : white;
+    font-size: 18px;
+    margin-right: 5%;
+}
+.nav-bar a:hover{
+    text-decoration: underline;
+    text-decoration-color:blue;
+}
+.container{
+    width : 800px;
+    height : 400px;
+    margin:10% 25%;
+    text-align: center;
+}
+.container h1{
+    text-transform: uppercase;
+    color:white;
+    font-size:70px;
+}
+.container p{
+    color:white;
+    font-size:20px;
+}
+button{
+    border:1px solid yellowgreen;
+    border-radius: 40px;
+    width:200px;
+    height:50px;
+    background-color: transparent;
+}
+span{
+    color: white;
+}
+button:hover{
+   background-color: yellowgreen;
+}
